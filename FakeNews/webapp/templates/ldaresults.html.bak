@@ -1,0 +1,10 @@
+{% extends 'base_u.html' %}
+{% block content %}
+
+<center>
+<h2>LDA Results</h2>
+<br>{{ data }}
+<table id="tab">
+</table>
+
+{% endblock %}
