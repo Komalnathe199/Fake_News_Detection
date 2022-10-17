@@ -1,8 +1,0 @@
-User:
-	Signup
-	Login
-	Enter News
-	Crawl News
-	Filter Based on the TF-IDF
-	Fake Detection Using LDA
-	View Result
